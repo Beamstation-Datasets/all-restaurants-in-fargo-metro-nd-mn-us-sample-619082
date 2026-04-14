@@ -1,0 +1,12 @@
+{
+  "export_job_id": "5d283a92-d337-4616-b8b0-4d4982adeee3",
+  "id_short": 619082,
+  "published_at": "2026-04-14T07:30:21Z",
+  "repo_name": "all-restaurants-in-fargo-metro-nd-mn-us-sample-619082",
+  "sample_asset_name": "beamstation_619082_restaurants-us-fargondmn_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/619082/beamstation_619082_restaurants-us-fargondmn_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "ea9e57d72bbbb4be45c3633ed0e517dd912779020b4a489ff957f8742a8d68c8",
+  "sample_size_bytes": 117744,
+  "total_records": 563
+}
