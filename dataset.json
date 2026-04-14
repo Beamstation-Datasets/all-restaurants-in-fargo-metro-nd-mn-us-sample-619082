@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Metro-wide restaurant data for the Fargo (Metro), ND-MN metropolitan area, spanning Fargo. Captures the competitive landscape across city boundaries within a growing metropolitan dining market. Filtered by the Restaurants category group with business profiles, ratings, reviews, and competitive metrics. Refreshed weekly.",
+  "config_name": "All Restaurants in Fargo (Metro), ND-MN, US",
+  "export_job_id": "5d283a92-d337-4616-b8b0-4d4982adeee3",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 619082,
+  "location_name": "Fargo, ND-MN",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-fargo-metro-nd-mn-us-sample-619082",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/619082/beamstation_619082_restaurants-us-fargondmn_SAMPLE_DIST.csv",
+  "sample_pct": 4.44,
+  "sample_records": 25,
+  "sample_sha256": "ea9e57d72bbbb4be45c3633ed0e517dd912779020b4a489ff957f8742a8d68c8",
+  "sample_size_bytes": 117744,
+  "total_records": 563,
+  "updated_at": "2026-03-31T16:56:13.590467+00:00"
+}
